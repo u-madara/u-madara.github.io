@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-shang/static/css/main.79bfac8e.css",
+    "main.js": "/react-shang/static/js/main.5f7b75f5.js",
+    "index.html": "/react-shang/index.html",
+    "main.79bfac8e.css.map": "/react-shang/static/css/main.79bfac8e.css.map",
+    "main.5f7b75f5.js.map": "/react-shang/static/js/main.5f7b75f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79bfac8e.css",
+    "static/js/main.5f7b75f5.js"
+  ]
+}
