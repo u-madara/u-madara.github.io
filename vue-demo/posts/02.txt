@@ -1,0 +1,98 @@
+1:"$Sreact.fragment"
+2:I[65393,["/xiaoyu-blog/_next/static/chunks/cb05f74a33e28a61.js"],"ThemeSwitcher"]
+3:I[39756,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+4:I[37457,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+8:I[68027,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+:HL["/xiaoyu-blog/_next/static/chunks/28307bb704a7b7f3.css","style"]
+:HL["/xiaoyu-blog/_next/static/chunks/4f1026ea77de124d.css","style"]
+0:{"P":null,"b":"rnknZBC7krur1OVbx7ri4","c":["","posts","02"],"q":"","i":false,"f":[[["",{"children":["posts",{"children":[["slug","02","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/xiaoyu-blog/_next/static/chunks/28307bb704a7b7f3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/xiaoyu-blog/_next/static/chunks/cb05f74a33e28a61.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","link",null,{"rel":"apple-touch-icon","sizes":"180x180","href":"/favicon/apple-touch-icon.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"32x32","href":"/favicon/favicon-32x32.png"}],["$","link",null,{"rel":"icon","type":"image/png","sizes":"16x16","href":"/favicon/favicon-16x16.png"}],["$","link",null,{"rel":"manifest","href":"/favicon/site.webmanifest"}],["$","link",null,{"rel":"mask-icon","href":"/favicon/safari-pinned-tab.svg","color":"#000000"}],["$","link",null,{"rel":"shortcut icon","href":"/favicon/favicon.ico"}],["$","meta",null,{"name":"msapplication-TileColor","content":"#000000"}],["$","meta",null,{"name":"msapplication-config","content":"/favicon/browserconfig.xml"}],["$","meta",null,{"name":"theme-color","content":"#000"}],["$","link",null,{"rel":"alternate","type":"application/rss+xml","href":"/feed.xml"}]]}],["$","body",null,{"className":"dark:bg-slate-900 dark:text-slate-400","style":{"fontFamily":"system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif"},"children":[["$","$L2",null,{}],["$","div",null,{"className":"min-h-screen","children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"bg-neutral-50 border-t border-neutral-200 dark:bg-slate-800","children":["$","div",null,{"className":"container mx-auto px-5","children":["$","div",null,{"className":"py-28 flex flex-col lg:flex-row items-center","children":[["$","h3",null,{"className":"text-4xl lg:text-[2.5rem] font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2","children":"个人笔记"}],["$","div",null,{"className":"flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2","children":[["$","a",null,{"href":"https://nextjs.org/docs/app/building-your-application/routing/layouts-and-templates","className":"mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0","children":"Read Documentation"}],["$","a",null,{"href":"https://github.com/vercel/next.js/tree/canary/examples/blog-starter","className":"mx-3 font-bold hover:underline","children":"View on GitHub"}]]}]]}]}]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":"$L5","templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["$L6",{},null,false,false]},null,false,false]},null,false,false]},null,false,false],"$L7",false]],"m":"$undefined","G":["$8",[]],"S":true}
+a:I[97367,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+b:"$Sreact.suspense"
+d:I[97367,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+f:I[97367,["/xiaoyu-blog/_next/static/chunks/ff1a16fafef87110.js","/xiaoyu-blog/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:["$","$L4",null,{}]
+6:["$","$1","c",{"children":["$L9",[["$","link","0",{"rel":"stylesheet","href":"/xiaoyu-blog/_next/static/chunks/4f1026ea77de124d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/xiaoyu-blog/_next/static/chunks/6ba5a4ad78020223.js","async":true,"nonce":"$undefined"}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}]
+7:["$","$1","h",{"children":[null,["$","$Ld",null,{"children":"$@e"}],["$","div",null,{"hidden":true,"children":["$","$Lf",null,{"children":["$","$b",null,{"name":"Next.Metadata","children":"$@10"}]}]}],null]}]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+11:I[5500,["/xiaoyu-blog/_next/static/chunks/cb05f74a33e28a61.js","/xiaoyu-blog/_next/static/chunks/6ba5a4ad78020223.js"],"Image"]
+12:T1216,<p>写之前，其实已经对nestjs有一定的了解，但是感觉看过之后还是很容易忘掉，所以还是得记成笔记来帮助记忆</p>
+<h2>nest的相关脚本命令</h2>
+<p>首先还是要先安装一下 <code>npm i -g @nestjs/cli</code>, node版本需要 >=16
+生成项目命令 <code>nest new 项目名称</code>
+查看帮助 <code>nest --help</code>
+<code>nest new | n 后缀</code>  搭建一个新的标准应用
+<code>nest generate | g 后缀</code> 根据原理生成修改文件
+<code>nest build</code> 将应用或工作区编译到输入文件夹中
+<code>nest start</code> 编译并运行程序
+<code>nest add</code>  导入一打包为Nest库的库， 运行其安装示意图  没怎么用过
+<code>nest info | i</code> 显示有关已安装的包和其他系统信息</p>
+<h4>nest new</h4>
+<p><code>nest new | n &#x3C;name> [options]</code>  创建一个name的新项目
+options:
+
+<code>--dry-run | -d</code>  显示将要进行的更改但不会更改
+<code>--skip-git | -g</code> 跳过初始化git仓库
+<code>--skip-install|-s</code> 跳过包安装步骤
+<code>--package-manager | -p [package-manager]</code>  指定包管理器，可选npm、yarn、pnpm  包管理器必须全局安装
+<code>--language | -l</code> 指定变成语言TS或JS
+<code>--collection | -c [collectionName]</code>
+<code>--strict</code> 使用以下TypeScript编译器标志启动项目strictNullChecks、noImplicitAny、strictBindCallApply、forceConsistentCasingInFileNames、noFallthroughCasesInSwitch
+</p>
+<h4>nest generate</h4>
+<p><code>nest generate | g &#x3C;schematic> &#x3C;name> [options]</code></p>
+<p>参数
+<code>&#x3C;schematic></code> 要生成的组件
+<code>&#x3C;name></code> 生成组件的名称</p>
+<p><code>schematic</code>参数：
+1、<code>app</code> 单体库中生成一个新的应用程序（如果它是标准结构，则转换为单体库）
+2、<code>library | lib</code> 在单体库中生成一个新的库（如果它是标准结构，则转换为单体库）
+3、<code>class | cl</code> 生成一个新的类
+4、<code>controller | co</code> 生成一个控制器声明
+5、<code>decorator | d</code> 生成一个自定义装饰器
+6、<code>filter | f</code> 生成一个过滤器
+7、<code>gateway | ga</code> 生成一个网管
+8、<code>guard | gu</code> 生成一个守卫
+9、<code>interface | itf</code> 生成一个接口
+10、<code>interceptor | itc</code> 生成一个拦截器
+11、<code>middleware | mi</code> 生成一个中间件
+12、<code>module | mo</code> 生成一个模块
+13、<code>pipe | pi</code> 生成一个管道
+14、<code>provider | pr</code> 生成一个提供程序
+15、<code>resolver | r</code> 生成一个解析器
+16、<code>resource | res</code> 生成一个新的CRUD资源
+17、<code>service | s</code> 生成一个服务</p>
+<p>options：
+1、<code>--dry-run | -d</code> 报告将要进行的更改，但不会更改
+2、<code>--project | -p [project]</code> 要将元素添加到的项目
+3、<code>--flat</code> 不为元素生成文件夹
+4、<code>--collection | -c [collectionName]</code> 指定构建集合。使用已安装的npm包名称包含构建的模式
+5、<code>--spec</code> 强制生成规范文件（默认）
+6、<code>--no-spec</code> 禁用生成规范未见</p>
+<h4>nest build</h4>
+<p><code>nest build &#x3C;name> [options]</code></p>
+<p>options:
+1、<code>--path | -p [path]</code> tsconfig文件的路径
+2、<code>--config | -c [path]</code> nest-cli 配置文件的路径
+3、<code>--watch | -w</code> 运行于观察模式
+4、<code>--builder | -b [name]</code> 指定用于编译的构建工具  tsc|swc|webpack
+5、<code>--webpackPath</code> webpack配置文件的路径
+6、<code>--tsc</code> 强制使用tsc进行编译</p>
+<h4>nest start</h4>
+<p><code>nest start &#x3C;name> [options]</code></p>
+<p>options:
+1、<code>--path | -p [path]</code> tsconfig文件的路径
+2、<code>--config | -c [path]</code> nest-cli 配置文件的路径
+3、<code>--watch | -w</code> 监视模式下运行
+4、<code>--builder | -b [name]</code> 指定用于编译的构建工具  tsc|swc|webpack
+5、<code>--preserveWatchOutput</code> 在监听模式下保留过时的控制台输入，而不清楚屏幕。（仅适用于tsc的监听模式）
+6、<code>--watchAssets</code> 在监听模式下运行，实事加载，同时监听非ts文件
+7、<code>--debug | -d [hostport]</code> 以调试模式运行
+8、<code>--webpackPath</code> 与上同
+9、<code>--tsc</code> 与上同
+10、<code>--exec | -e [binary]</code> 要运行的二进制文件</p>
+<h4>nest add</h4>
+<p><code>nest add &#x3C;name> [options]</code></p>
+<h2></h2>
+9:["$","main",null,{"children":["$","div",null,{"className":"container mx-auto px-5","children":["$","article",null,{"className":"mb-16","children":["$undefined",[["$","h1",null,{"className":"text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left","children":"nestjs相关笔记"}],["$","div",null,{"className":"hidden md:block md:mb-12","children":["$","div",null,{"className":"flex items-center"}]}],["$","div",null,{"className":"mb-8 md:mb-16 sm:mx-0","children":["$","div",null,{"className":"sm:mx-0","children":["$","$L11",null,{"src":"/xiaoyu-blog/assets/blog/dynamic-routing/cover.jpg","alt":"Cover Image for nestjs相关笔记","className":"shadow-sm w-full","width":1300,"height":630}]}]}],["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","div",null,{"className":"block md:hidden mb-6","children":["$","div",null,{"className":"flex items-center"}]}],["$","div",null,{"className":"mb-6 text-lg","children":["$","time",null,{"dateTime":"2024-06-26","children":"2024-06-26"}]}]]}]],["$","div",null,{"className":"max-w-2xl mx-auto","children":["$","div",null,{"className":"markdown-styles-module__3QwRAG__markdown","dangerouslySetInnerHTML":{"__html":"$12"}}]}]]}]}]}]
+10:[["$","title","0",{"children":"nestjs相关笔记 | Next.js Blog Example with Markdown"}],["$","meta","1",{"name":"description","content":"A statically generated blog example using Next.js and Markdown."}],["$","meta","2",{"property":"og:title","content":"nestjs相关笔记 | Next.js Blog Example with Markdown"}],["$","meta","3",{"property":"og:description","content":"A statically generated blog example using Next.js and Markdown."}],["$","meta","4",{"property":"og:image","content":"http://localhost:3000/assets/blog/dynamic-routing/cover.jpg"}],["$","meta","5",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","6",{"name":"twitter:title","content":"nestjs相关笔记 | Next.js Blog Example with Markdown"}],["$","meta","7",{"name":"twitter:description","content":"A statically generated blog example using Next.js and Markdown."}],["$","meta","8",{"name":"twitter:image","content":"http://localhost:3000/assets/blog/dynamic-routing/cover.jpg"}]]
+c:null
