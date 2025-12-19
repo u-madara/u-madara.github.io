@@ -7,7 +7,24 @@
     <title>个人空间</title>
     <meta name="description" content="分享技术探索、经验积累、生活点滴和思考感悟的个人网站" />
     <meta name="keywords" content="技术博客,个人网站,前端开发,React,全栈开发" />
-    <script type="module" crossorigin src="/assets/index-qOcF0_yL.js"></script>
+    <!-- 预加载媒体文件映射表 -->
+    <script>
+      // 在GitHub Pages环境中预加载媒体文件映射表
+      (function() {
+        if (window.location.hostname.includes('github.io')) {
+          fetch('/media-file-map.json')
+            .then(response => response.json())
+            .then(data => {
+              window.MEDIA_FILE_MAP = data;
+              console.log('媒体文件映射表预加载成功');
+            })
+            .catch(error => {
+              console.warn('媒体文件映射表预加载失败:', error);
+            });
+        }
+      })();
+    </script>
+    <script type="module" crossorigin src="/assets/index-CaF-wID2.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-BpsvloB7.css">
   </head>
   <body>
